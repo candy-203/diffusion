@@ -6,5 +6,5 @@ If you want to try it yourself just make a virtual enviorment using `python -m v
 
 ```bash
 source venv/bin/activate
-pip install -r requirments.txt
+pip install -r requierments.txt
 ```
